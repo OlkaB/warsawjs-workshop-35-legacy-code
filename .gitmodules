@@ -1,0 +1,6 @@
+[submodule "Pomodoro-Clock"]
+	path = Pomodoro-Clock
+	url = git@github.com:OlkaB/Pomodoro-Clock.git
+[submodule "src/Pomodoro-Clock"]
+	path = src/Pomodoro-Clock
+	url = git@github.com:OlkaB/Pomodoro-Clock.git
